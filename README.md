@@ -76,7 +76,7 @@ This creates:
 
 - 47 Kenyan counties
 - Common roofing units (m², lm, pcs, sht, etc.)
-- Admin user → `admin@proroofkenya.co.ke` / `admin1234`
+
 
 > ⚠️ Change the admin password immediately after first login.
 
